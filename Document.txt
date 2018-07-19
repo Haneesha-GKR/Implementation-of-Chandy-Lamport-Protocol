@@ -1,0 +1,8 @@
+#six global parameters(see above)
+3 6 10 100 2000 15
+0 dc01 2080 #0
+1 dc02 2081 #1
+2 dc03 2083 #2
+1  #0
+2  #1
+0  #2
